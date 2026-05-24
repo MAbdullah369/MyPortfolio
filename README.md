@@ -5,7 +5,7 @@ smooth animations, and full SEO.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 npm install
@@ -16,7 +16,7 @@ npm run start        # serve production build locally
 
 ---
 
-## 🎬 Animation Explainer
+## Animation Explainer
 
 All animations are **pure CSS** (no extra libraries needed).
 
@@ -94,7 +94,7 @@ Not a keyframe — just a width transition on a pseudo-element:
 
 ---
 
-## 🌐 Deploying to Vercel (Recommended)
+## Deploying to Vercel (Recommended)
 
 1. Push your project to GitHub.
 2. Go to [vercel.com/new](https://vercel.com/new) and import the repo.
